@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+}
+
+.item{
+    
+}
+
+.image1 {
+    transform: rotate(-2deg);
+	width: 70%;
+	height: auto;
+}
+
+.player{
+    min-height: 100px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.name{
+    color: black;
+    min-height: 200px;
+}
+
+.intro{
+    min-height: 300px;
+}
